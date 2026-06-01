@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=23&duration=6000&pause=5000&color=598392&repeat=false&width=435&lines=Hi!+I+am+Muntaha+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=23&duration=6000&pause=5000&color=598392&repeat=false&width=435&lines=Hi!+I+am+Muntaha+%3A%29)]()
 
