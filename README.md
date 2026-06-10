@@ -45,7 +45,9 @@ Let me tell you about the things I know (and don't **yet** know):
 
 <br></br>
 ```$ ls projects```  
-Check the pinned :]
+Can't show private work :']
+
+More descriptions coming soon :)
 
 <br></br>
 ```$ sleep 8h```  
