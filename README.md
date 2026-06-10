@@ -4,21 +4,14 @@
 
 ```$ cat about-me.txt```
 
-- I build stuff, aka
-- I get an idea
-- I design
-- I code
-- I test
-- I ~~question my sanity~~ debug
-
-...and that's mostly it.
+- I build stuff
 
 <br></br>
 ```$ Press X for Doubt```
 
 No, really. *(Source: Trust)*
 
-Let me tell you about the things I know (and don't **yet** know):
+Let me tell you about the things I know:
 
 #### 💻 Things I know
 
