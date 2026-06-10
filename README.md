@@ -32,17 +32,6 @@ Let me tell you about the things I know (and don't **yet** know):
 ![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC)  ![Static Badge](https://img.shields.io/badge/vscode-%233499FE?style=for-the-badge&logo=vscode&logoColor=white&color=%233499FE) ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white&color=%23181717) ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37) 
 
 
-
-#### 🧭 On my radar
-
- ![Static Badge](https://img.shields.io/badge/googlecloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white&color=%234285F4)
-![Static Badge](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00) 
-![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B)
---- ![Static Badge](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=%23EE4C2C) ![Static Badge](https://img.shields.io/badge/langchain-%237FC8FF?style=for-the-badge&logo=langchain&logoColor=white&color=%237FC8FF) 
---- ![Static Badge](https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white&color=%23632CA6)
-![Static Badge](https://img.shields.io/badge/posthog-%23000000?style=for-the-badge&logo=posthog&logoColor=white&color=%23000000) ![Static Badge](https://img.shields.io/badge/auth0-%23EB5424?style=for-the-badge&logo=auth0&logoColor=white&color=%23EB5424)
-
-
 <br></br>
 ```$ ls projects```  
 Can't show private work :']
